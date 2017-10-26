@@ -1,0 +1,6 @@
+#pip install -r requirements.txt
+flask = 0.12.2
+flask_admin = 1.5.0
+flask_sqlalchemy=2.3.2
+pandas = 0.20.3
+werkzeug = 0.12.2
